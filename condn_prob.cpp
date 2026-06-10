@@ -25,7 +25,7 @@ else if (59 < marks < 79)
 {
     cout << "B";
 }
-else if (79 < marks <= 100)
+else if ( marks <= 100 && marks > 79)
 {
     cout << "A";
 }

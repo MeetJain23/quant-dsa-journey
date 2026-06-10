@@ -1,3 +1,5 @@
+// hacker rank problem functions
+
 #include <iostream>
 using namespace std;
 

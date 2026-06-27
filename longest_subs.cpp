@@ -26,7 +26,7 @@ int longestUniqueSubstr(string &s){
 }
 
 int main(){
-    string s = "geeksforgeeks";
+    string s = "MEEEEEEEEEEEEEEEEEEEETTTTTTTTTTTTTTTTTTTTT";
     cout << longestUniqueSubstr(s);
     return 0;
 }
